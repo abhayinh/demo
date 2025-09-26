@@ -7,6 +7,9 @@ const express =require("express")
 const app=express()
 app.use(express.json());
 
+
+
+
 // middleware
 
 function middleware(req,res,next){
@@ -96,6 +99,7 @@ app.listen(3000)
 
 
 
+console.log("Hii from main")
 
 
 
