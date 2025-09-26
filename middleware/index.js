@@ -200,11 +200,4 @@ app.listen(3000)
 
 
 // app.listen(3000)
-
-
-
-
-
-
-
 console.log("Hii from the fix error")
