@@ -99,13 +99,6 @@ app.listen(3000)
 
 
 
-console.log("Hii from main")
-
-
-
-
-
-
 // ###########################################################
 
 // so when we sending the request of any port we get the number 
